@@ -11,7 +11,7 @@
 
 * Design batch parallel pipeline to identify the language id of 200k hours audio data scrapped from Youtube with a pre-trained deep learning model.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=voidful&repo=audio-preprocessing-pipeline)](https://github.com/voidful/audio-preprocessing-pipeline)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anthony-wss&repo=lang-id-pipeline)](https://github.com/anthony-wss/lang-id-pipeline)
 
 ### :star: Bombit: A Realtime Web Game
 
