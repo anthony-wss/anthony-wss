@@ -1,5 +1,11 @@
 ## :pushpin: Pin Projects
 
+### :star: Code repo of a preprint publication
+
+* The experiments of CLCIFAR, the first human-annotated complementary label datasets.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anthony-wss&repo=cll-experiment)](https://github.com/anthony-wss/cll-experiment)
+
 ### :star: Crowdsourcing summer intern
 
 * Collect 30k human annotated complementary labels for CIFAR10 and CIFAR100 with Amazon Mechanical Turk.
@@ -7,7 +13,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anthony-wss&repo=complementary_cifar)](https://github.com/anthony-wss/complementary_cifar)
 
 ### :star: Project with Meta Platforms, Inc. 
-<img src="https://branditechture.agency/wp-content/uploads/2021/10/Meta-Logo-Download-4.jpg" alt="Meta icon" width="200" align="right"/>
 
 * Design batch parallel pipeline to identify the language id of 200k hours audio data scrapped from Youtube with a pre-trained deep learning model.
 
