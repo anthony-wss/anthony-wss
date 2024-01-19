@@ -1,3 +1,11 @@
+## News
+
+🚀 [2024.01.19] New Blog Post: [ESPnet Hackathon 2023](https://anthony-wss.github.io/posts/2024/01/blog-post-1/)✨
+
+## Personal Blog
+
+https://anthony-wss.github.io/
+
 ## :pushpin: Pin Projects
 
 ### :star: Code repo of a preprint publication
