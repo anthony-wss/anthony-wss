@@ -1,3 +1,13 @@
+Hi, I'm Hsiu-Hsuan Wang! 👋
+
+🎓 MS Student at National Taiwan University (NTU), Electrical Engineering
+
+🤖 Deep Learning researches in speech related fields.
+
+👀 Looking for: Deep learning related internship & job roles.
+
+📫 Get in Touch: [Email](mailto:r13921059@ntu.edu.tw) | [LinkedIn](https://www.linkedin.com/in/anthony-wss/)
+
 ## News
 
 🚀 [2024.01.19] New Blog Post: [ESPnet Hackathon 2023](https://anthony-wss.github.io/posts/2024/01/blog-post-1/)✨
