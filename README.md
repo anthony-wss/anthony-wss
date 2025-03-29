@@ -1,4 +1,10 @@
-Hi, I'm Hsiu-Hsuan Wang! 👋
+### News
+
+[2025/03/28] Gave an invited talk in Prof. Hung-Yi Lee's Machine Learning 2025 course: **Training LLMs with multiple GPUs** -- [Watch the video](https://www.youtube.com/watch?v=mpuRca2UZtI)✨
+
+## About me
+
+Hi, I'm Hsiu-Hsuan Wang.
 
 🎓 MS Student at National Taiwan University (NTU), Electrical Engineering
 
