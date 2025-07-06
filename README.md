@@ -1,7 +1,5 @@
 ### News
 
-[2025.04.09] Received an offer for a **Google SWE internship** in 2025 with the **ChromeOS team**.
-
 [2025.03.28] Gave an invited talk in Prof. Hung-Yi Lee's Machine Learning 2025 course: **Training LLMs with multiple GPUs** -- [Watch the video](https://www.youtube.com/watch?v=mpuRca2UZtI)✨
 
 ## About me
